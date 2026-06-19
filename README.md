@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-se-apaga/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Calor que se apaga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-apaga/) |
+| **Get License** | [Obtain a Music License for Calor que se apaga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-apaga/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> El hielo en el vaso se derrite y el calor ya se apaga,
+> Pero el fuego de mi mente por tu cuerpo no acaba.
+> Baby, tú sabes que esta noche no existen fronteras,
+> Me tienes adicto a tu piel de la forma que tú quieras.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
