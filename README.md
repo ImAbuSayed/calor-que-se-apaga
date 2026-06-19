@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-se-apaga/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Calor que se apaga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-apaga/) |
+| **Get License** | [Commercial Licensing for Calor que se apaga](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-apaga/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3776)
+- [Telegram](https://t.me/AbuSayedMusic/3788)
 
 ---
 
