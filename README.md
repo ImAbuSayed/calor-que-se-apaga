@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `f8b7262a13b706a18607e48eebe33c5c57b3198560392a1443ff427ab6eae9e0` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `000b15a8cd332133fbb2ef6e1252e9188ac1444dbdd7cf1c8e6de6d02a1196fd` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

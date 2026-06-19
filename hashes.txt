@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Calor qu
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T03:09:36.516535 | `v1` | `f8b7262a13b706a18607e48eebe33c5c57b3198560392a1443ff427ab6eae9e0` | `c225e2bce9d556da2d2c0893acc294dc6dc599430a5a779a3add47323ef62cb7` | `2026-06-20_calor-que-se-apaga-v1.txt` |
+| 2026-06-20T03:45:44.887928 | `v2` | `000b15a8cd332133fbb2ef6e1252e9188ac1444dbdd7cf1c8e6de6d02a1196fd` | `936782cebc72d87459b79ad53f79d1fb60fcdfb44493652c19e5e50bdf788714` | `2026-06-20_calor-que-se-apaga-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
